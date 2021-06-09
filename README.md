@@ -1,2 +1,0 @@
-# CoreWebServices
-CoreWebServices
